@@ -1,0 +1,4 @@
+если у вас выскочило чтото на подобии
+remote: Permission to ArturShalokhin/ITMO-WEB-dev.git denied to rapax1.
+fatal: unable to access 'https://github.com/ArturShalokhin/ITMO-WEB-dev.git/': The requested URL returned error: 403
+Следуйте win+x >run (выполнить)> cmd > введите в командной строке "rundll32.exe keymgr.dll,KRShowKeyMgr" и удалите все связанное с git
