@@ -1,0 +1,110 @@
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table width="800" align="center" border="5" bgcolor="#ffdab9">
+    <tr>
+        <td>
+            <table bgcolor="#ffbe62" align="center" width="100%">
+                <tr>
+                    <!--                    выравнивание по вертикали и по горизонтали-->
+                    <td align="center" valign="middle">
+                        <img src="lesson2_logo.jpeg">
+                    </td>
+                </tr>
+            </table>
+            <!--            align выравнивание <p> - абзац <h> - заголовки-->
+            <h1 align="center">Симба</h1>
+            <p align="justify">Симба — сын Короля-льва Муфасы и королевы Сараби, племянник Шрама. В детстве был
+                неугомонным и любопытным львёнком, из-за чего часто попадал в неприятности. После внезапной смерти отца
+                (в которой винит себя) львёнок был вынужден покинуть родное королевство. За пределами родины львёнка
+                приютили и воспитали сурикат Тимон и бородавочник Пумба, и бок о бок с ними беглый юный принц живёт
+                беззаботную и лёгкую жизнь. Став взрослым, Симба встречается с духом погибшего отца, убедившего его в
+                истинном предназначении. Прозревшему и разобравшемуся в себе принцу предстояло вернуться и спасти Земли
+                Прайда от окончательного упадка.
+                Ныне он — король Земель Прайда, муж Налы и отец трех детей: дочери-наследницы Киары, сына Кайона, лидера
+                Львиной Охраны и старшего сына Копы.
+            </p>
+            <img src="lesson2.jpeg" alt="Симба" width="300">
+            <!--            тэг strong говорит браузеру что этот текст важный  делает его жирным -->
+            <!--            есть устаревшая версия жирного шрифта это тэг <b> использовать его не рекомендуется-->
+            <h2><strong>
+                Семья
+            </strong></h2>
+            <!--                ctrl + alt + l выравнивание-->
+            <ul>
+                <li>Муфаса(отец)</li>
+                <li>Сарабин(мать)</li>
+                <li>Шрам(дядя)</li>
+                <li>Нала(Супруга)</li>
+                <li>Киара(дочь)</li>
+                <li>Кову(зять)</li>
+            </ul>
+            <br>
+            <table bordercolor="#ffbe30" border="30" bgcolor="silver" width="30%" align="left" cellpadding="20" cellspacing="10">
+                <tr>
+                    <td>Тип</td>
+                    <td>Лев</td>
+                </tr>
+                <tr>
+                    <td>Пол</td>
+                    <td>Мужской</td>
+                </tr>
+                <tr>
+                    <td>Дата Рождения</td>
+                    <td>18 августа</td>
+                </tr>
+                <tr>
+                    <td>Характер</td>
+                    <td>Смелый</td>
+                </tr>
+                <tr>
+                    <td>Друзья</td>
+                    <td>Тимон и Пумба</td>
+                </tr>
+            </table>
+
+            <table width="100%">
+                <tr>
+                    <td>
+                        <br>
+                    </td>
+                </tr>
+
+            </table>
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/kNhdUVgukVk" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+            </iframe>
+            <table bgcolor="#ffbe62" height="80" width="100%">
+                <tr>
+                    <td valing="buttom">
+                        first taste work
+                    </td>
+                    <td valing="buttom" align="right">
+                      @ axeleron
+                    </td>
+                </tr>
+            </table>
+
+
+
+
+
+
+
+        </td>
+
+
+    </tr>
+
+
+</table>
+
+
+</body>
+</html>
